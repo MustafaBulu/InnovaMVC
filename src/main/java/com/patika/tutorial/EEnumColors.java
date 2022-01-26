@@ -11,9 +11,9 @@ public enum EEnumColors {
 enum Colors2{
     BLUE(1,"blue"),GREEN(2,"green"),ORANGE(3,"orange");
 
-    @Getter @Setter
+    @Getter
     private final int colorid;
-    @Getter @Setter
+    @Getter
     private final String colorName;
 
     private Colors2(int colorid, String colorName){
