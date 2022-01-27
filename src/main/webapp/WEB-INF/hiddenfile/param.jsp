@@ -12,7 +12,7 @@
 <body>
 
 <ul class="list-group">
-    <li class="list-group-item text-success">Mesaj </li>
+    <li class="list-group-item text-success">Mesaj ${param_key} </li>
 </ul>
 
 

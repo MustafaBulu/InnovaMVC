@@ -1,3 +1,4 @@
+
 <%@ page language="java" pageEncoding="UTF-8" session="false"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
@@ -10,9 +11,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
-
+s
 <ul class="list-group">
-    <li class="list-group-item text-success">Mesaj </li>
+    <li class="list-group-item text-success">Deneme </li>
 </ul>
 
 
